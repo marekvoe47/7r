@@ -56,7 +56,7 @@ section {
 }
 
 .section-bg {
-  background-color: #e36259;
+  background-color: #ffb8b8;
 }
 
 .section-header {
@@ -236,7 +236,7 @@ section {
 # Header
 --------------------------------------------------------------*/
 .header {
-  background: #7308ff;
+  background: #f77c7c;
   transition: all 0.5s;
   z-index: 997;
   height: 90px;
